@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+  background-color: #4285f4;
+  
+}
+.container{
+  width: 80% ;
+  border-radius: 20px;
+  background-color: #FBBC05;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+}
+input{
+  width: 150px;
+  text-align: center;
+  height: 35px;
+  border-radius: 20px;
+  font-size: medium;
+  font-family: "Bebas Neue", sans-serif;
+
+}
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #34A853;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+}
+
